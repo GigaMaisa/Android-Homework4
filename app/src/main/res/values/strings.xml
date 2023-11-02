@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HomeworkFour</string>
+    <string name="greeting_text">Hello!</string>
+    <string name="sub_header_text">lets introduce</string>
+    <string name="rectangle_design_element">Rectangle Design Element</string>
+    <string name="your_full_name">Your full name</string>
+    <string name="username">Username</string>
+    <string name="next">Next</string>
+    <string name="next_arrow_icon">Next Arrow Icon</string>
+</resources>
